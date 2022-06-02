@@ -6,7 +6,9 @@ namespace ShoppingSystem
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Controller controller = new Controller();
+            Engine engine = new Engine(controller);
+            engine.Run();
         }
     }
 }

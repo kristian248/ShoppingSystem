@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace ShoppingSystem
 {
-    public class PhysicalProduct
+    public class PhysicalProduct : Product
     {
+        public PhysicalProduct(string name, double price) : base(name, price)
+        {
+        }
     }
 }
