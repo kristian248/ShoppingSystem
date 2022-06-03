@@ -50,6 +50,7 @@ namespace ShoppingSystem
                         break;
                 }
                 Console.WriteLine(result);
+                splittedInput = Console.ReadLine().Split();
             }
         }
     }

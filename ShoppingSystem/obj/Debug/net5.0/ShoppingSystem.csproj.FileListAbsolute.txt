@@ -1,0 +1,16 @@
+C:\Users\student\source\repos\ShoppingSystem\Нова папка\ShoppingSystem\bin\Debug\net5.0\ShoppingSystem.exe
+C:\Users\student\source\repos\ShoppingSystem\Нова папка\ShoppingSystem\bin\Debug\net5.0\ShoppingSystem.deps.json
+C:\Users\student\source\repos\ShoppingSystem\Нова папка\ShoppingSystem\bin\Debug\net5.0\ShoppingSystem.runtimeconfig.json
+C:\Users\student\source\repos\ShoppingSystem\Нова папка\ShoppingSystem\bin\Debug\net5.0\ShoppingSystem.runtimeconfig.dev.json
+C:\Users\student\source\repos\ShoppingSystem\Нова папка\ShoppingSystem\bin\Debug\net5.0\ShoppingSystem.dll
+C:\Users\student\source\repos\ShoppingSystem\Нова папка\ShoppingSystem\bin\Debug\net5.0\ShoppingSystem.pdb
+C:\Users\student\source\repos\ShoppingSystem\Нова папка\ShoppingSystem\obj\Debug\net5.0\ShoppingSystem.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\ShoppingSystem\Нова папка\ShoppingSystem\obj\Debug\net5.0\ShoppingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\ShoppingSystem\Нова папка\ShoppingSystem\obj\Debug\net5.0\ShoppingSystem.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\ShoppingSystem\Нова папка\ShoppingSystem\obj\Debug\net5.0\ShoppingSystem.AssemblyInfo.cs
+C:\Users\student\source\repos\ShoppingSystem\Нова папка\ShoppingSystem\obj\Debug\net5.0\ShoppingSystem.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\ShoppingSystem\Нова папка\ShoppingSystem\obj\Debug\net5.0\ShoppingSystem.dll
+C:\Users\student\source\repos\ShoppingSystem\Нова папка\ShoppingSystem\obj\Debug\net5.0\refint\ShoppingSystem.dll
+C:\Users\student\source\repos\ShoppingSystem\Нова папка\ShoppingSystem\obj\Debug\net5.0\ShoppingSystem.pdb
+C:\Users\student\source\repos\ShoppingSystem\Нова папка\ShoppingSystem\obj\Debug\net5.0\ShoppingSystem.genruntimeconfig.cache
+C:\Users\student\source\repos\ShoppingSystem\Нова папка\ShoppingSystem\obj\Debug\net5.0\ref\ShoppingSystem.dll

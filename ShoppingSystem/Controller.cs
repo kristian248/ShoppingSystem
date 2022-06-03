@@ -14,17 +14,17 @@ namespace ShoppingSystem
         }
         public string ProcessProductCommand(List<string> args)
         {
-            // TODO: Implement me...
-            return null;
+            PhysicalProduct product = new PhysicalProduct(args[0], double.Parse(args[1]), double.Parse(args[2]));
+            return product.ToString(); 
         }
         public string ProcessServiceCommand(List<string> args)
         {
-            // TODO: Implement me...
-            return null;
+            ServiceProduct product = new ServiceProduct(args[0], double.Parse(args[1]), double.Parse(args[2]));
+            return product.ToString();
         }
         public string ProcessCheckoutCommand(List<string> args)
         {
-            // TODO: Implement me...
+            Receipt receipt = new Receipt(args[0]);
             return null;
         }
         public string ProcessInfoCommand(List<string> args)
