@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Oz/1OtgfoxwfIkvj4QpeKkMDgA93DwhKQ4j4olCXsfNhOt9ZhQKFRZeLUyrUuGpxtT8YsZ6Rq2OEtrsBhr0RTg==",
+  "dgSpecHash": "dylL8Ho+DIzKnUy6VHG2KOaa0U6Cra/8HIZVxv/+SbvO3KNNdgGhPA00eYtFZiyS0B+RuPCcIAz/z95hMOu+Yw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC-140-3\\source\\repos\\ShoppingSystem\\gngc\\ShoppingSystem\\ShoppingSystem.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\student\\source\\repos\\ShoppingSystem\\Нова папка\\ShoppingSystem\\ShoppingSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

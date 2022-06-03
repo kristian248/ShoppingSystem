@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC-140-3\\source\\repos\\ShoppingSystem\\gngc\\ShoppingSystem\\ShoppingSystem.csproj": {}
+    "C:\\Users\\student\\source\\repos\\ShoppingSystem\\Нова папка\\ShoppingSystem\\ShoppingSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC-140-3\\source\\repos\\ShoppingSystem\\gngc\\ShoppingSystem\\ShoppingSystem.csproj": {
+    "C:\\Users\\student\\source\\repos\\ShoppingSystem\\Нова папка\\ShoppingSystem\\ShoppingSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC-140-3\\source\\repos\\ShoppingSystem\\gngc\\ShoppingSystem\\ShoppingSystem.csproj",
+        "projectUniqueName": "C:\\Users\\student\\source\\repos\\ShoppingSystem\\Нова папка\\ShoppingSystem\\ShoppingSystem.csproj",
         "projectName": "ShoppingSystem",
-        "projectPath": "C:\\Users\\PC-140-3\\source\\repos\\ShoppingSystem\\gngc\\ShoppingSystem\\ShoppingSystem.csproj",
-        "packagesPath": "C:\\Users\\PC-140-3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC-140-3\\source\\repos\\ShoppingSystem\\gngc\\ShoppingSystem\\obj\\",
+        "projectPath": "C:\\Users\\student\\source\\repos\\ShoppingSystem\\Нова папка\\ShoppingSystem\\ShoppingSystem.csproj",
+        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\student\\source\\repos\\ShoppingSystem\\Нова папка\\ShoppingSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC-140-3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,12 +49,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.14, 5.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
